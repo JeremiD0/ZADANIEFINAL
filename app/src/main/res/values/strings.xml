@@ -9,10 +9,10 @@
     <string name="Przycisk_informacje">Informacje</string>
     <string name="Przycisk_zamknij">Zamknij</string>
 
-    <string name="Textview_przykładowa_nazwa_uzytkownika">John Doe</string>
+    <string name="Textview_nazwa">Niezalogowany</string>
     <string name="Textview_tekst_powitalny">Witaj,</string>
     <string name="Textview_tekst_login">Zalogowano!</string>
-    
+
     <string name="Textview_imie">Imię</string>
     <string name="Textview_nazwisko">Nazwisko</string>
     <string name="Textview_nick">Nick</string>
